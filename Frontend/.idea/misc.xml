@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/aditik/AndroidStudioProjects/MyApplication2/app/src/main/res/drawable/button_design.xml" value="0.38333333333333336" />
+        <entry key="..\:/Users/aditik/AndroidStudioProjects/MyApplication2/app/src/main/res/drawable/round_button.xml" value="0.18020833333333333" />
+        <entry key="..\:/Users/aditik/AndroidStudioProjects/MyApplication2/app/src/main/res/drawable/selector.xml" value="0.36770833333333336" />
+        <entry key="..\:/Users/aditik/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/activity_homepage.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/aditik/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/activity_login.xml" value="0.2957427536231884" />
+        <entry key="..\:/Users/aditik/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/activity_main.xml" value="0.2957427536231884" />
+        <entry key="..\:/Users/aditik/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/activity_registration.xml" value="0.2957427536231884" />
+        <entry key="..\:/Users/aditik/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/activity_spashscreen.xml" value="0.11458333333333333" />
+        <entry key="..\:/Users/aditik/AndroidStudioProjects/MyApplication2/app/src/main/res/menu/bottom_navigation_menu.xml" value="0.3515625" />
+        <entry key="..\:/Users/aditik/AndroidStudioProjects/MyApplication2/app/src/main/res/menu/menu_navigation.xml" value="0.3515625" />
+        <entry key="..\:/Users/aditik/Desktop/2_ns_1/Frontend/app/src/main/res/layout/activity_add_item.xml" value="0.15806159420289856" />
+        <entry key="..\:/Users/aditik/Desktop/2_ns_1/Frontend/app/src/main/res/layout/activity_homepage.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/aditik/Desktop/2_ns_1/Frontend/app/src/main/res/layout/activity_items.xml" value="0.30548302872062666" />
+        <entry key="..\:/Users/aditik/Desktop/2_ns_1/Frontend/app/src/main/res/layout/activity_login.xml" value="0.15806159420289856" />
+        <entry key="..\:/Users/aditik/Desktop/2_ns_1/Frontend/app/src/main/res/layout/activity_main.xml" value="0.121875" />
+        <entry key="..\:/Users/aditik/Desktop/2_ns_1/Frontend/app/src/main/res/layout/activity_my_profile.xml" value="0.15806159420289856" />
+        <entry key="..\:/Users/aditik/Desktop/2_ns_1/Frontend/app/src/main/res/layout/activity_registration.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/aditik/Desktop/2_ns_1/Frontend/app/src/main/res/layout/activity_setting.xml" value="0.15806159420289856" />
+        <entry key="..\:/Users/aditik/Desktop/2_ns_1/Frontend/app/src/main/res/layout/item_row_item.xml" value="0.4686609686609687" />
+        <entry key="..\:/Users/aditik/Desktop/2_ns_1/Frontend/app/src/main/res/menu/bottom_menu.xml" value="0.1796875" />
+        <entry key="..\:/Users/aditik/Desktop/2_ns_1/Frontend/app/src/main/res/xml/network_security_config.xml" value="0.15806159420289856" />
+        <entry key="..\:/Users/aditik/Desktop/2_ns_1/Frontend/app/src/main/res/xml/preference.xml" value="0.13179347826086957" />
+        <entry key="..\:/Users/aditik/Desktop/coms309/2_ns_1/Frontend/app/src/main/res/layout/activity_add_item.xml" value="0.22" />
+        <entry key="..\:/Users/aditik/Desktop/coms309/2_ns_1/Frontend/app/src/main/res/layout/activity_homepage.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/aditik/Desktop/coms309/2_ns_1/Frontend/app/src/main/res/layout/activity_setting.xml" value="0.1" />
+        <entry key="..\:/Users/aditik/Desktop/coms309/2_ns_1/Frontend/app/src/main/res/menu/menu_navigation.xml" value="0.1796875" />
+        <entry key="..\:/Users/aditik/Documents/GitHub/2_ns_1/Frontend/app/src/main/res/drawable/ic_baseline_home_24.xml" value="0.18020833333333333" />
+        <entry key="..\:/Users/aditik/Documents/GitHub/2_ns_1/Frontend/app/src/main/res/drawable/loading_shape.xml" value="0.1" />
+        <entry key="..\:/Users/aditik/Documents/GitHub/2_ns_1/Frontend/app/src/main/res/layout/activity_add_item.xml" value="0.4466666666666667" />
+        <entry key="..\:/Users/aditik/Documents/GitHub/2_ns_1/Frontend/app/src/main/res/layout/activity_homepage.xml" value="0.37589498806682575" />
+        <entry key="..\:/Users/aditik/Documents/GitHub/2_ns_1/Frontend/app/src/main/res/layout/activity_items.xml" value="0.20625" />
+        <entry key="..\:/Users/aditik/Documents/GitHub/2_ns_1/Frontend/app/src/main/res/layout/activity_login.xml" value="0.20625" />
+        <entry key="..\:/Users/aditik/Documents/GitHub/2_ns_1/Frontend/app/src/main/res/layout/activity_main.xml" value="0.20625" />
+        <entry key="..\:/Users/aditik/Documents/GitHub/2_ns_1/Frontend/app/src/main/res/layout/activity_my_profile.xml" value="0.5" />
+        <entry key="..\:/Users/aditik/Documents/GitHub/2_ns_1/Frontend/app/src/main/res/layout/activity_setting.xml" value="0.20625" />
+        <entry key="..\:/Users/aditik/Documents/GitHub/2_ns_1/Frontend/app/src/main/res/layout/activity_settings.xml" value="0.20625" />
+        <entry key="..\:/Users/aditik/Documents/GitHub/2_ns_1/Frontend/app/src/main/res/layout/activity_spashscreen.xml" value="0.1640625" />
+        <entry key="..\:/Users/aditik/Documents/GitHub/2_ns_1/Frontend/app/src/main/res/layout/fragment_first.xml" value="0.1" />
+        <entry key="..\:/Users/aditik/Documents/GitHub/2_ns_1/Frontend/app/src/main/res/layout/item_row_item.xml" value="0.4466666666666667" />
+        <entry key="..\:/Users/aditik/Documents/GitHub/2_ns_1/Frontend/app/src/main/res/layout/loading_shape.xml" value="0.1" />
+        <entry key="..\:/Users/aditik/Documents/GitHub/2_ns_1/Frontend/app/src/main/res/menu/bottom_menu.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/aditik/Documents/GitHub/2_ns_1/Frontend/app/src/main/res/menu/menu_navigation.xml" value="0.1796875" />
+      </map>
+    </option>
+  </component>
+  <component name="JavadocGenerationManager">
+    <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/../../coms327p1" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

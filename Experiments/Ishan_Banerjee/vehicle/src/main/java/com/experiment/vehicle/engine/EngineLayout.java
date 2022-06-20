@@ -1,0 +1,5 @@
+package com.experiment.vehicle.engine;
+
+public enum EngineLayout {
+    STRAIGHT_ENGINE, INLINE_ENGINE, FLAT_ENGINE, V_ENGINE, TWIN_CYLINDERS, FOUR_CYLINDERS, FIVE_CYLINDERS, SIX_CYLINDERS, NOT_APPLICABLE
+}

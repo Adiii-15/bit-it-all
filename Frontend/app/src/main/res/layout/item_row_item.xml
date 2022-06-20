@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/container"
+    android:layout_width="match_parent"
+    android:layout_height="175dp"
+    android:layout_alignParentEnd="false"
+    android:layout_alignParentBottom="false"
+    android:background="#faf4ee">
+
+    <ImageView
+        android:id="@+id/thumbnail"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:background="@drawable/loading_shape" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="161dp"
+        android:layout_margin="8dp"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/Item_title"
+            android:layout_width="271dp"
+            android:layout_height="39dp"
+            android:text="Item Title"
+            android:textColor="#100F0F"
+            android:textSize="18dp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/Item_desc"
+            android:layout_width="157dp"
+            android:layout_height="49dp"
+            android:text="Item Description"
+            android:textColor="#100F0F"
+            android:textSize="12dp" />
+
+        <TextView
+            android:id="@+id/Current_price"
+            android:layout_width="75dp"
+            android:layout_height="20dp"
+            android:layout_alignParentRight="true"
+            android:layout_gravity="end"
+            android:text="Current price"
+            android:textColor="#100F0F"/>
+
+        <TextView
+            android:id="@+id/Item_price"
+            android:layout_width="167dp"
+            android:layout_height="31dp"
+            android:text="Item Price"
+            android:textColor="#100F0F"
+            android:textSize="10dp" />
+
+
+        <TextView
+            android:id="@+id/Buy_now_price"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:text="Buy now price"
+            android:textColor="#100F0F"
+            android:textAlignment="textEnd"
+            android:layout_gravity="end"/>
+
+    </LinearLayout>
+
+
+</LinearLayout>

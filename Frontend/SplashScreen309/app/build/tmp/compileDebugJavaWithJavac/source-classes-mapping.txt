@@ -1,0 +1,7 @@
+com/example/splashscreen309/BuildConfig.java
+ com.example.splashscreen309.BuildConfig
+com/example/splashscreen309/MainActivity.java
+ com.example.splashscreen309.MainActivity
+com/example/splashscreen309/splashscreen.java
+ com.example.splashscreen309.splashscreen
+ com.example.splashscreen309.splashscreen$1

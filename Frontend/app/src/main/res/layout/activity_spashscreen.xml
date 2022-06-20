@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".View.Spashscreen"
+    android:background="#91348b"
+    android:orientation="horizontal">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="395dp"
+        android:layout_marginTop="170dp"
+        android:orientation="vertical">
+
+        <ImageView
+            android:layout_width="184dp"
+            android:layout_height="209dp"
+            android:layout_gravity="center"
+            android:src="@drawable/auctionimage" />
+
+        <TextView
+            android:layout_width="282dp"
+            android:layout_height="180dp"
+            android:layout_marginStart="60dp"
+            android:fontFamily="cursive"
+            android:padding="2dp"
+            android:text="Welcome to Bid It All"
+            android:textColor="@color/white"
+            android:textSize="60sp"
+            android:textStyle="bold" />
+
+
+    </LinearLayout>
+
+</LinearLayout>

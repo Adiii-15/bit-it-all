@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory
+        android:title="General Settings">
+        <SwitchPreference
+            android:key="safety_preference"
+            android:defaultValue="false"
+            android:title="Safe Mode"
+            android:summary="On for confirmation prompt before transactions"/>
+        <Preference
+            android:key="Profile Settings"
+            android:summary="Change Profile Details"
+            android:title="Profile Settings"/>
+        <Preference
+            android:key="feedback"
+            android:summary="Tell us how you like using Bid It All"
+            android:title="Feedback"/>
+
+
+    </PreferenceCategory>
+
+    <PreferenceCategory
+        android:title="About"
+        >
+        <Preference
+            android:title="Version"
+            android:summary="1.0.0"/>
+
+        <Preference
+            android:title="About Us"
+            android:key="Contact_Preferences"
+            android:summary="About the creators of Bid It All!"
+            />
+
+        <Preference
+            android:title="Contact Us"
+            />
+
+    </PreferenceCategory>
+
+    <PreferenceCategory
+        android:title="Help">
+    <Preference
+        android:title="Report User"
+        android:summary="Report scammers/phishing,etc."/>
+
+    <Preference
+            android:title="Transaction Issues"
+            android:summary="Facing transaction issues?"
+            />
+    <Preference
+        android:title="How to use Bid It All!"
+        />
+
+    </PreferenceCategory>
+</PreferenceScreen>

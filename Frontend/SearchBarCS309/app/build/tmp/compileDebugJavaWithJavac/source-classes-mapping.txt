@@ -1,0 +1,5 @@
+com/example/searchbarcs309/BuildConfig.java
+ com.example.searchbarcs309.BuildConfig
+com/example/searchbarcs309/MainActivity.java
+ com.example.searchbarcs309.MainActivity
+ com.example.searchbarcs309.MainActivity$1
